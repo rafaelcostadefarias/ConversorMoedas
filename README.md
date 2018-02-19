@@ -1,7 +1,7 @@
 # Project Title
 
 Um conversor simples onde, listando o valor e a moeda base, converte para as moedas mais utilizadas pelo usuário.
-![alt text](https://raw.githubusercontent.com/rafaelcostadefarias/ConversorMoedas/branch/path/to/sc1.png)
+![alt text](https://github.com/rafaelcostadefarias/ConversorMoedas/blob/master/sc1.png)
 
 
 ## Built With
