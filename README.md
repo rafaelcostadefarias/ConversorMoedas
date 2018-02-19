@@ -7,6 +7,7 @@ Um conversor simples onde, listando o valor e a moeda base, converte para as moe
 
 * Swift 4
 * XCode 9
+* API fixer.io
 
 
 ## Authors
